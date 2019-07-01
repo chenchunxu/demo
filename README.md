@@ -1,2 +1,2 @@
 # demo
-composer
+composer 2019.7.1
