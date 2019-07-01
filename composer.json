@@ -1,0 +1,14 @@
+{
+    "name": "chenchunxu/demo",
+    "description": "test composer project",
+    "type": "project",
+    "license": "MIt",
+    "authors": [
+        {
+            "name": "chencx",
+            "email": "1525008343@qq.com"
+        }
+    ],
+    "minimum-stability": "dev",
+    "require": {}
+}
